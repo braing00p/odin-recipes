@@ -11,7 +11,26 @@
         <h2>Description:</h2>
         <p>Experience true soul food with the Grim Reaper's signature cupcakes! These hauntingly delicious treats blend ethereal flavors with a touch of the supernatural.</p> 
         <p>Made with ethically sourced Soul Sugar and premium Miasma Flour, each bite is literally to die for. Perfect for midnight cravings, supernatural soirées, or when you're just feeling a bit deadly delightful. Don't worry – they're safe for mortals!</p>
-        <br>
         <a href="./../index.html">Back to Home</a>
+        <!-- ingridients -->
+        <h2>Ingredients:</h2>
+        <ul>
+            <li>2 cups Miasma Flour (store-bought or freshly harvested from ancient crypts)</li>
+            <li>1½ cups Soul Sugar (ethically sourced from willing spirits)</li>
+            <li>3 Phantom Eggs (laid by spectral chickens at midnight)</li>
+            <li>½ cup Reaper's Tears (collected during sad movies)</li>
+            <li>1 cup Haunted Heavy Cream (from ghost cows, obviously)</li>
+            <li>2 tsp Graveyard Dust (for that earthy finish)</li>
+            <li>1 tbsp Essence of Night</li>
+            <li>A pinch of Banshee's Breath (for extra fluffiness)</li>
+        </ul>
+        <h3>For the Frosting:</h3>
+        <ul>
+            <li>2 cups Shadowspun Butter</li>
+            <li>3 cups Powdered Spirit Sugar</li>
+            <li>1 tsp Vanilla Extract (from the rarest orchids)</li>
+            <li>1 tsp Moonlight Extract</li>
+            <li>½ cup Void Chocolate (72% dark, obviously)</li>
+        </ul>
     </body>
 </html>
