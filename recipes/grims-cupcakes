@@ -6,6 +6,12 @@
     </head>
     <body>
         <h1>🖤 Grim's Death-liciously Dark Cupcakes 🖤</h1>
+        <img src="./../images/grims-cupcake.png" alt="Grim's Cupcakes">
+        <br>
+        <h2>Description:</h2>
+        <p>Experience true soul food with the Grim Reaper's signature cupcakes! These hauntingly delicious treats blend ethereal flavors with a touch of the supernatural.</p> 
+        <p>Made with ethically sourced Soul Sugar and premium Miasma Flour, each bite is literally to die for. Perfect for midnight cravings, supernatural soirées, or when you're just feeling a bit deadly delightful. Don't worry – they're safe for mortals!</p>
+        <br>
         <a href="./../index.html">Back to Home</a>
     </body>
 </html>
