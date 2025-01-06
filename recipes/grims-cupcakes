@@ -11,6 +11,7 @@
         <h2>Description:</h2>
         <p>Experience true soul food with the Grim Reaper's signature cupcakes! These hauntingly delicious treats blend ethereal flavors with a touch of the supernatural.</p> 
         <p>Made with ethically sourced Soul Sugar and premium Miasma Flour, each bite is literally to die for. Perfect for midnight cravings, supernatural soirées, or when you're just feeling a bit deadly delightful. Don't worry – they're safe for mortals!</p>
+        <p><strong>Yields: 13 cupcakes</strong> (never make a dozen, that's just asking for trouble!)</p>
         <a href="./../index.html">Back to Home</a>
         <!-- ingridients -->
         <h3>Ingredients:</h3>
@@ -38,12 +39,18 @@
             <li>Preheat your cauldron to 180°C (or the temperature of a lukewarm spirit).</li>
             <li>In a cursed mixing bowl, sift together the Miasma Flour and Graveyard Dust. Set aside while whispering gentle incantations.</li>
             <li>In a separate bowl, cream together Soul Sugar and Shadowspun Butter until the mixture is as pale as a ghost.</li>
-            <li>Add Phantom Eggs one at a time, mixing well after each addition. Don't worry if you hear faint clucking sounds - that's normal.</li>
+            <li>Add Phantom Eggs one at a time, mixing well after each addition. <em>Don't worry if you hear faint clucking sounds - that's normal.</em></li>
             <li>Slowly fold in your flour mixture, alternating with Haunted Heavy Cream. The batter should be smooth as a freshly polished tombstone.</li>
             <li>Fill cupcake liners (preferably purple) about 2/3 full.</li>
             <li>Bake for 18-20 minutes or until a bone pick inserted comes out clean.</li>
         </ol>
         <h3>For the Frosting:</h3>
         <p>Beat all frosting ingredients until light and fluffy as morning mist. Pipe onto cooled cupcakes using a #666 tip.</p>
+        <!-- serving suggestion -->
+        <h2>Serving Suggestion:</h2>
+        <p>Best served at midnight under a full moon. Keeps for 3-5 days in a sealed crypt container.</p>
+        <br>
+        <br>
+        <p><strong>WARNING: May cause temporary ghosting (side effects include floating, transparency, and an inexplicable desire to say "boo"). Perfect for both the living and the dead!</strong></p>
     </body>
 </html>
