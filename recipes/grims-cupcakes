@@ -13,7 +13,7 @@
         <p>Made with ethically sourced Soul Sugar and premium Miasma Flour, each bite is literally to die for. Perfect for midnight cravings, supernatural soirées, or when you're just feeling a bit deadly delightful. Don't worry – they're safe for mortals!</p>
         <a href="./../index.html">Back to Home</a>
         <!-- ingridients -->
-        <h2>Ingredients:</h2>
+        <h3>Ingredients:</h3>
         <ul>
             <li>2 cups Miasma Flour (store-bought or freshly harvested from ancient crypts)</li>
             <li>1½ cups Soul Sugar (ethically sourced from willing spirits)</li>
@@ -32,5 +32,18 @@
             <li>1 tsp Moonlight Extract</li>
             <li>½ cup Void Chocolate (72% dark, obviously)</li>
         </ul>
+        <!-- instructions -->
+        <h2>Instructions:</h2>
+        <ol>
+            <li>Preheat your cauldron to 180°C (or the temperature of a lukewarm spirit).</li>
+            <li>In a cursed mixing bowl, sift together the Miasma Flour and Graveyard Dust. Set aside while whispering gentle incantations.</li>
+            <li>In a separate bowl, cream together Soul Sugar and Shadowspun Butter until the mixture is as pale as a ghost.</li>
+            <li>Add Phantom Eggs one at a time, mixing well after each addition. Don't worry if you hear faint clucking sounds - that's normal.</li>
+            <li>Slowly fold in your flour mixture, alternating with Haunted Heavy Cream. The batter should be smooth as a freshly polished tombstone.</li>
+            <li>Fill cupcake liners (preferably purple) about 2/3 full.</li>
+            <li>Bake for 18-20 minutes or until a bone pick inserted comes out clean.</li>
+        </ol>
+        <h3>For the Frosting:</h3>
+        <p>Beat all frosting ingredients until light and fluffy as morning mist. Pipe onto cooled cupcakes using a #666 tip.</p>
     </body>
 </html>
