@@ -1,0 +1,15 @@
+h1,
+ul  {
+    font-family:Helvetica,Lucida Console, sans-serif;
+    text-align: center;
+    text-decoration: none;
+}
+
+li,
+a {
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: 15px;
+    padding-top: 3px;
+}
