@@ -1,5 +1,5 @@
 h1,
-ul  {
+ul, * {
     font-family:Helvetica,Lucida Console, sans-serif;
     text-align: center;
     text-decoration: none;
@@ -21,3 +21,4 @@ a {
 body {
     background: rgb(21, 20, 20);
 }
+
