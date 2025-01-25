@@ -6,7 +6,12 @@ ul, * {
 }
 
 h1 {
-    color: darkorchid;
+    color: rgb(161, 83, 200);
+    font-size: 50px;
+    background-color:rgb(34, 29, 37);
+    border-radius: 10px;
+    padding: 10px;
+    margin: 40px 90px 45px 90px;
 }
 
 li,
@@ -15,10 +20,28 @@ a {
     margin-left: auto;
     margin-right: 15px;
     padding-top: 10px;
-    color: hotpink;
+    color: rgb(252, 73, 163);
 }
 
 body {
     background: rgb(21, 20, 20);
+}
+
+a {
+    background-color:rgb(250, 209, 237);
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    margin: 15px 90px 15px 90px;
+    text-align: center;
+    font-size: 20px; 
+    font-weight: 555;
+}
+
+img {
+    width: 25%;
+    height: 25%;
+    border-radius: 75px;
+    padding: 0 0 15px 0;
 }
 
