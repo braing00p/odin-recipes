@@ -32,16 +32,38 @@ li {
     border-radius: 10px;
     padding: 10px;
     display: block;
-    margin: 15px 90px 15px 90px;
+    margin: 10px 90px 15px 90px;
     text-align: center;
     font-size: 20px; 
     font-weight: 555;
 }
 
 img {
-    width: 25%;
-    height: 25%;
+    width: 28%;
+    height: 28%;
     border-radius: 75px;
-    padding: 0 0 15px 0;
+    margin: 40px 50px 0 50px;
 }
 
+/* Flashing */
+.hover13 figure:hover img {
+	opacity: 1;
+	-webkit-animation: flash 2s;
+	animation: flash 2s;
+}
+@-webkit-keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+@keyframes flash {
+	0% {
+		opacity: .4;
+	}
+	100% {
+		opacity: 1;
+	}
+}
