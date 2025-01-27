@@ -16,6 +16,7 @@ a{
     margin-right: 15px;
     padding-top: 10px;
     color: hotpink;
+    align-self: auto;
 }
 
 body {
@@ -34,4 +35,8 @@ p.tip {
 
 a {
     color:rgb(47, 255, 158);
+}
+
+img {
+    border-radius: 20%;
 }
