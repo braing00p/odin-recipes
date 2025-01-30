@@ -1,0 +1,78 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(21, 20, 20);
+    color:rgb(117, 74, 116);
+}
+
+img {
+    border-radius: 100px;
+    margin: 0 0 20px 0;
+}
+
+.description,
+.ingridients,
+.instructions,
+.serving-suggestion {
+    background-color: rgb(34, 29, 37);
+    margin: 20px 350px 30px 350px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 5px solid rgb(117, 74, 116);
+    color:rgb(202, 167, 222);
+
+}
+
+li {
+    list-style: number;
+    list-style-position: inside;
+}
+
+h1 {
+    margin: 45px 0 45px 0;
+}
+
+.frosting {
+    padding: 20px 0 0 0;
+}
+
+h2,
+ul {
+    padding: 10px;
+}
+
+h2 {
+    color: rgb(161, 93, 160);
+    font-size: 25px;
+}
+
+h3 {
+    color: rgb(119, 61, 118);
+    font-size: 18px;
+}
+
+.warning {
+    color: rgb(252, 73, 163);
+    font-weight: 555;
+    margin: 50px 70px 30px 70px;
+}
+
+a {
+    color: rgb(19, 18, 18);
+    background-color: rgb(189, 48, 119);
+    padding: 10px;
+    border: 5px solid rgb(252, 73, 163);
+    border-radius: 5px;
+    display: inline-block;
+}
